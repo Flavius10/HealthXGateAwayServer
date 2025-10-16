@@ -1,4 +1,4 @@
-package config;
+package com.example.HealthXGateAwayServer.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cloud.gateway.route.RouteLocator;
